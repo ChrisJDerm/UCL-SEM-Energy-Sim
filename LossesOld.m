@@ -13,7 +13,7 @@ totalLosses = [];
 totalLossesLabels = {};
 
 %air drag------------------------------------------------
-airCdA = 0.08; %coefficient of drag %TODO
+airCdA = 0.09; %coefficient of drag %TODO
 airDensity = 1.225; %density of air, kg/m^3
 
 % notes:
